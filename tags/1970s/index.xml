@@ -2,7 +2,8 @@
 Published: April 1977
 URL: https://people.csail.mit.edu/rivest/Rsapaper.pdf
 Abstract: An encryption method is presented with the novel property that publicly revealing an encryption key does not thereby reveal the corresponding decryption key. This has two important consequences:
-Couriers or other secure means are not needed to transmit keys, since a message can be enciphered using an encryption key publicly revealed by the intended recipient. Only he can decipher the message, since only he knows the corresponding decryption key.</description></item><item><title>Keeping Secrets</title><link>/entries/40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/entries/40/</guid><description>Published: December 2014
+Couriers or other secure means are not needed to transmit keys, since a message can be enciphered using an encryption key publicly revealed by the intended recipient. Only he can decipher the message, since only he knows the corresponding decryption key.</description></item><item><title>Keeping Secrets</title><link>/entries/40/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/entries/40/</guid><description>Authors: magazine, STANFORD
+Published: December 2014
 URL: https://stanfordmag.org/contents/keeping-secrets
 Abstract: Four decades ago, university researchers figured out the key to computer privacy, sparking a battle with the National Security Agency that continues today.</description></item><item><title>New directions in cryptography</title><link>/entries/36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/entries/36/</guid><description>Authors: W. Diffie, M. Hellman
 Published: November 1976
