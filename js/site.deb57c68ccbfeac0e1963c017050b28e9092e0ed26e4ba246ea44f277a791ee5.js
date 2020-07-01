@@ -7,3 +7,4 @@ if(entry.year!==null){publication_date+=" "+entry.year;}
 return publication_date;}
 function get_authors(entry){if(entry.authors.length===0){entry.authors=["Unknown"];}
 return entry.authors.join(", ");}
+function get_tags(entry){return entry.tags.join(", ");}
